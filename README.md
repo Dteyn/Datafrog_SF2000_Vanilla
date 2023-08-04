@@ -24,10 +24,10 @@ For reference, here is the process used to clean the .IMG file:
 
 1. Create an image of the original Datafrog SF2000 microSD card using usbimager. Save a copy as backup.
 2. Mount the image using [ImDisk Toolkit](https://sourceforge.net/projects/imdisk-toolkit/)
-3. Repair the FAT32 filesystem using `CHKDSK /F [Drive Letter]` (see details below)
-4. Delete all the ROM files, leaving folder structure intact
+3. Delete all the ROM files, leaving folder structure intact
+4. Repair the FAT32 filesystem using `CHKDSK /F [Drive Letter]` (see details below)
 5. Run [FROGTOOL](https://github.com/tzlion/frogtool) or [tadpole](https://github.com/EricGoldsteinNz/tadpole) to rebuild the game lists as empty lists
-6. Clean the free space on the filesystem using [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete). Command: `SDelete -z [drive letter]`
+6. Zero the free space on the filesystem using [SDelete](https://learn.microsoft.com/en-us/sysinternals/downloads/sdelete). Command: `SDelete -z [drive letter]`
 7. Defragment the filesystem using [UltraDefrag](https://sourceforge.net/projects/ultradefrag/)
 
 Step 6 and 7 are only required for making the .IMG file compress easier, for sharing online. In step 3, deleting the files does not actually remove them from the filesystem which results in a large compressed file. Using SDelete will overwrite the leftover data with zeroes, and defragmenting will move all the data to the beginning of the image.
