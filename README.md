@@ -68,7 +68,7 @@ Thank you to Von Millhausen for an excellent repository for SF2000 information: 
 
 Thank you to tzlion for FROGTOOL, the premier utility for rebuilding game lists: https://github.com/tzlion/frogtool
 
-Thank you to EricGoldsteinNz for tadpole, the best GUI app to manager your SF2000: https://github.com/EricGoldsteinNz/tadpole
+Thank you to EricGoldsteinNz for tadpole, the best GUI app to manage your SF2000: https://github.com/EricGoldsteinNz/tadpole
 
 Thank you to Zerter for the SF2000 Collection, a great place to customize your Froggy: https://zerter555.github.io/sf2000-collection/
 
