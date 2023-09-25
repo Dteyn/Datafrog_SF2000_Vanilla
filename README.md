@@ -3,7 +3,7 @@ This repository contains a stripped-down, "vanilla" version of the Datafrog SF20
 
 There are two options available: a .IMG file which has been cleaned up and can be written to a microSD, as well as an "OS Only" archive which contains only the OS files.
 
-**Latest version: 2023-08-03** (`bisrv.asd` dated 2023-07-10)
+**Latest version: v1.6 - aka 2023-08-03** (`bisrv.asd` dated 2023-07-10)
 
 ## Disclaimer
 All SF2000 OS files are property of Datafrog CN and I do not claim ownership of anything hosted in this repository. This is simply an optimized version of their official OS and has no affiliation with the company.
