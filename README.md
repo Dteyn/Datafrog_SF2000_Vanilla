@@ -15,7 +15,7 @@ Please make sure to back up your existing SF2000 microSD card before using this 
   - [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/)
 
 ## Instructions (.IMG file for writing to microSD)
-1. Download the [latest version](https://github.com/Dteyn/Datafrog_SF2000_Vanilla/releases/download/2023.08.03/SF2000_TF_20230803-VANILLA.zip) from the [Releases](https://github.com/Dteyn/Datafrog_SF2000_Vanilla/releases) page
+1. Download the [latest version](https://github.com/Dteyn/Datafrog_SF2000_Vanilla/releases/download/v1.6/SF2000_TF_20230803-VANILLA.zip) from the [Releases](https://github.com/Dteyn/Datafrog_SF2000_Vanilla/releases) page
 2. Open the .ZIP file and extract `SF2000_TF_20230803-VANILLA.img`
 3. Write the .IMG to your microSD using [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/).
 4. Add your own ROM files to the ROMS folder, then access from the User ROMS / Settings menu, OR
@@ -58,9 +58,9 @@ NOTE: With this method, you may run into the [Bootloader Bug](https://github.com
 
 There are two archives available for the OS files:
 
-- [**DATAFROG-SF2000-08.03-OS-Files-Only-VANILLA.zip**](https://github.com/Dteyn/Datafrog_SF2000_Vanilla/releases/download/2023.08.03/DATAFROG-SF2000-08.03-OS-Files-Only-VANILLA.zip) - This version has had frogtool run to rebuild the game lists with 0 games.
+- [**DATAFROG-SF2000-08.03-OS-Files-Only-VANILLA.zip**](https://github.com/Dteyn/Datafrog_SF2000_Vanilla/releases/download/v1.6/DATAFROG-SF2000-08.03-OS-Files-Only-VANILLA.zip) - This version has had frogtool run to rebuild the game lists with 0 games.
 
-- [**DATAFROG-SF2000-08.03-OS-Files-Only-STOCK-no_roms.zip**](https://github.com/Dteyn/Datafrog_SF2000_Vanilla/releases/download/2023.08.03/DATAFROG-SF2000-08.03-OS-Files-Only-STOCK-no_roms.zip) - These are the untouched, stock OS files from the 2023-08-03 microSD without any changes (aside from removing ROMs)
+- [**DATAFROG-SF2000-08.03-OS-Files-Only-STOCK-no_roms.zip**](https://github.com/Dteyn/Datafrog_SF2000_Vanilla/releases/download/v1.6/DATAFROG-SF2000-08.03-OS-Files-Only-STOCK-no_roms.zip) - These are the untouched, stock OS files from the 2023-08-03 microSD without any changes (aside from removing ROMs)
 
 
 ## More Information about SF2000
