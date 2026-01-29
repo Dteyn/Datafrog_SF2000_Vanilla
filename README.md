@@ -97,3 +97,5 @@ Thank you to EricGoldsteinNz for tadpole, the best GUI app to manage your SF2000
 Thank you to Zerter and Kev for the SF2000 Collection, a great place to customize your Froggy: https://zerter555.github.io/sf2000-collection/
 
 Thank you to the Retro Handhelds Discord: https://discord.gg/retrohandhelds
+
+You are visitor: ![Page views](https://dteyn-rad-page.netlify.app/.netlify/functions/pageviews?repo=Datafrog_SF2000_Vanilla)
